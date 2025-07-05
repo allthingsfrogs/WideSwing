@@ -14,8 +14,8 @@ from confluent_kafka.schema_registry.avro import AvroSerializer
 
 
 from typing import Final
-TOKEN: Final = '7710093996:AAGihZkNJEfVe2jrlO6lWMCrdgjiH2wJf9c'
-BOT_NAME: Final = '@WideSwing'
+
+
 
 # send message to user, give choice of VCT region
 # Americas, EMEA, APAC, CN
